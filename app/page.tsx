@@ -54,7 +54,7 @@ export default function Home() {
           className="bg-white/70 backdrop-blur-md p-8 rounded-2xl shadow-2xl text-center"
         >
           <h2 className="text-2xl font-semibold mb-4 text-rose-600">
-            Will you be my Valentine? 💕
+            Will you be my Valentine, Nikiata? 💕
           </h2>
 
           {!accepted ? (
